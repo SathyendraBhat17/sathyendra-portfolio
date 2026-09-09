@@ -4,7 +4,7 @@ import { ArrowDown } from "lucide-react";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import Button from "../components/Button";
 import { personalData } from "../data/portfolioData";
-import profilePhoto from "../assets/profile-photo.png";
+import profilePhoto from "../assets/profile-photo.webp";
 
 export default function Hero() {
   const handleScrollToProjects = (e) => {

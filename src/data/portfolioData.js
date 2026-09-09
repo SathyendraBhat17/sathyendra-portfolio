@@ -66,7 +66,7 @@ export const projectsData = [
     category: "ai",
     description:
       "An AI-powered learning platform that generates summaries, flashcards, and quizzes to create a personalized learning experience.",
-    image: "/projects/learnify.png",
+    image: "/projects/learnify.webp",
     tech: [
       "React.js",
       "Node.js",
@@ -83,7 +83,7 @@ export const projectsData = [
     category: "ai",
     description:
       "An AI-powered interview preparation platform that generates role-specific interview questions, evaluates responses, and provides personalized feedback.",
-    image: "/projects/interviewprep-ai.png",
+    image: "/projects/interviewprep-ai.webp",
     tech: [
       "HTML",
       "CSS",
@@ -98,7 +98,7 @@ export const projectsData = [
     category: "ai",
     description:
       "A multilingual AI-powered VS Code extension that leverages Retrieval-Augmented Generation (RAG) and ChromaDB to provide context-aware error explanations and intelligent debugging assistance.",
-    image: "/projects/code-equalize.png",
+    image: "/projects/code-equalize.webp",
     tech: [
       "AI Integration",
       "RAG",
