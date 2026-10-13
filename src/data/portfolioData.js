@@ -114,7 +114,7 @@ export const educationData = [
     institution:
       "Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM), Bantakal",
     period: "2023 – 2027",
-    cgpa: "9.30",
+    cgpa: "9.26",
     description:
       "Currently pursuing a Bachelor's degree in Computer Science Engineering with a strong focus on Software Engineering, Full Stack Development, Artificial Intelligence, Database Management Systems, Computer Networks, and Data Structures & Algorithms.",
   },
@@ -133,7 +133,7 @@ export const educationData = [
     institution:
       "VKR Acharya Memorial English High School, Kundapura",
     period: "2020 – 2021",
-    cgpa: "99.68%",
+    cgpa: "99.68% (State Rank Holder)",
     description:
       "Completed SSLC under the Karnataka State Board with 99.68%, demonstrating consistent academic excellence.",
   },
